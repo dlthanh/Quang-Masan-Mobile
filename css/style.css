@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.mw-cover {
+    margin-top: 44px;
+    margin-bottom: 25px;
+}
+.mw-img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.mw-text {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 25px;
+    padding: 0 15px;
+}
+.mw-section {
+    margin-bottom: 25px;
+}
